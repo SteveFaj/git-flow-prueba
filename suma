@@ -2,3 +2,4 @@ function suma (a, b){
  return a + b;
 };
 
+console.log("veamos cual es la cuenta que realiza: ", suma(4, 7));
